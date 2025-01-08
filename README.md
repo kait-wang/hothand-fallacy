@@ -4,7 +4,7 @@ The foundational paper, “The Hot Hand in Basketball” by Gilovich, Vallone, a
 
 Key features include:
 
-- Simulation Design: Generates large-scale random sequences to model basketball shooting patterns.
-- Streak Analysis: Detects and analyzes streaks in the data, focusing on the probability of continuing a streak.
-- Statistical Insights: Highlights interesting patterns through metrics such as means, quartiles, and standard deviations.
-- Data Visualization: Uses matplotlib to create histograms, making it easier to interpret results.
+- **Simulation Design**: Generates large-scale random sequences to model basketball shooting patterns.
+- **Streak Analysis**: Detects and analyzes streaks in the data, focusing on the probability of continuing a streak.
+- **Statistical Insights**: Highlights interesting patterns through metrics such as means, quartiles, and standard deviations.
+- **Data Visualization**: Uses matplotlib to create histograms, making it easier to interpret results.
