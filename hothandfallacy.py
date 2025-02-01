@@ -1,8 +1,3 @@
-#
-# Kaitlyn Wang
-# STAT210
-# Northwestern University 
-#
 # Hot Hand Fallacy: Monte Carlo Simulations
 #
 # This program will simulate 10,000 60-shot shooting sequences of a basketball 
